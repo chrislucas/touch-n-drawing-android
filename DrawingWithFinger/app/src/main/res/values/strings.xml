@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">DrawingWithFinger</string>
+    <string name="app_name">DrawingWithFingers</string>
+    <string name="share">Compartilhar</string>
+    <string name="save">Salvar</string>
+    <string name="drawing_square">Quadrado</string>
+    <string name="draw">Desenhar</string>
+    <string name="drawing_circle">Desenhar um circulo</string>
 </resources>
